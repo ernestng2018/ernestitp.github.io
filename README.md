@@ -2,8 +2,7 @@
 * Design and Build a STEM course explaining deep learning self-driving car
 
 ## Aim
-* Contributing the [Google’s Initiative on Smarter Digital City 3.0 Whitepaper]
-  (https://www.thinkwithgoogle.com/intl/en-apac/trends-and-insights/smarter-digital-city-30-highlights-research/)
+* Contributing the [Google’s Initiative on Smarter Digital City 3.0 Whitepaper](https://www.thinkwithgoogle.com/intl/en-apac/trends-and-insights/smarter-digital-city-30-highlights-research/)
 ## Objectives
 
 * Designing the STEM course base on the practical guide
