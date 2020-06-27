@@ -50,9 +50,9 @@ csv driving log file
 
 ### Reinforcement Learning Model
 ![datafile](/Picture3.png)
-![datafile](/croppedImg.png)
-![datafile](/finalImg.png)
-![datafile](/YellowImg.png)
+![datafile](/croppedImg.png)![datafile](/finalImg.png)![datafile](/YellowImg.png)
+
+
 
 Built-in Pre-processing
 ![datafile](/Picture6.png)
@@ -67,7 +67,7 @@ Reinforcement Learning Model
 ![datafile](/Picture8.png)
 
 ## Implement Right Machine Learning Algorithms
-![datafile](/trainingv4.mp4)
+![training video](/trainingv4.mp4)
 
 
 ## References
