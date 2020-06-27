@@ -1,0 +1,6 @@
+
+pip install opencv-contrib-python
+pip install mss
+pip install keras
+pip install tensorflow
+pip install pyautogui
