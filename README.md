@@ -43,7 +43,7 @@
 ### Data Pre-processing
 ### Supervised Learning Model
 ![drivelog](/Picture2.png)  
-![datafile](/Capture2.png)
+![datafile](/Capture2.PNG)
 
 
 ## References
