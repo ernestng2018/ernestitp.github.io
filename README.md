@@ -34,13 +34,13 @@
 ## Develop and display the self-driving car program
 
 * Proposed Model
-# Supervised Learning Model
-#   Tensorflow + keras - *MobileNet*
+  * Supervised Learning Model
+       Tensorflow + keras - *MobileNet*
 
-# Reinforcement Learning Model
-#   Opencv, pyautogui, multiple screenshots module (mss) - *CNN*
+  * Reinforcement Learning Model
+       Opencv, pyautogui, multiple screenshots module (mss) - *CNN*
 
-![GitHub Logo](/trainingv4.mp4)
+![training](/trainingv4.mp4)
 
 ## References
 * [ConV2D](https://keras.io/api/layers/convolution_layers/convolution2d/)
