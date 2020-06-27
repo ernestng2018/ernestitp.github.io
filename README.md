@@ -50,9 +50,9 @@ csv driving log file
 
 ### Reinforcement Learning Model
 ![datafile](/Picture3.png)
-![datafile](/croppedlmg.png)
-![datafile](/finallmg.png)
-![datafile](/Yellowlmg.png)
+![datafile](/croppedImg.png)
+![datafile](/finalImg.png)
+![datafile](/YellowImg.png)
 
 Built-in Pre-processing
 ![datafile](/Picture6.png)
