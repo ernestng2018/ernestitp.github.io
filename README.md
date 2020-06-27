@@ -50,7 +50,9 @@ csv driving log file
 
 ### Reinforcement Learning Model
 ![datafile](/Picture3.png)
-
+![datafile](/croppedlmg.png)
+![datafile](/finallmg.png)
+![datafile](/Yellowlmg.png)
 
 ## References
 * [ConV2D](https://keras.io/api/layers/convolution_layers/convolution2d/)
