@@ -42,8 +42,14 @@
 
 ### Data Pre-processing
 ### Supervised Learning Model
-![drivelog](/Picture2.png)  
+16,383 Image file 
+![drivelog](/Picture2.png)
+
+csv driving log file
 ![datafile](/Capture2.PNG)
+
+### Reinforcement Learning Model
+![datafile](/Picture3.png)
 
 
 ## References
