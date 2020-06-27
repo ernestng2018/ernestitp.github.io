@@ -31,6 +31,7 @@
 * Perform the Training models and tuning their hyperparameters
 * Choose and Test the Right Machine Learning Algorithm
 * Implement Right Machine Learning Algorithms
+* Compare the methods and give out knowledge
 
 ## Develop and display the self-driving car program
 
@@ -76,6 +77,13 @@ Reinforcement Learning Model
 ![datafile](/Capture6.PNG)
 
 ![datafile](/pic11.png)
+
+## Compare the methods and give out knowledge
+* Datasets 
+* Data-pre-processing
+* Model Performance/Architecture
+* Framework
+* Hardware
 
 
 ## References
