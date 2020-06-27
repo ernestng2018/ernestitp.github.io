@@ -60,14 +60,21 @@ Built-in Pre-processing
 ### Choose and Test the Machine Learning Algorithm
 
 Supervised Learning Model
+
 ![datafile](/Picture5.png)
 ![datafile](/Picture4.png)
 
 Reinforcement Learning Model
+
 ![datafile](/Picture8.png)
 
 ## Implement Right Machine Learning Algorithms
 ![training video](/trainingv4.mp4)
+
+
+![datafile](/Capture5.PNG)
+
+![datafile](/pic11.png)
 
 
 ## References
