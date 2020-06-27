@@ -82,3 +82,6 @@ Reinforcement Learning Model
 * [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 * [MSS](https://python-mss.readthedocs.io/index.html)
 * [Google’s Initiative on Smarter Digital City 3.0 Whitepaper](https://www.thinkwithgoogle.com/intl/en-apac/trends-and-insights/smarter-digital-city-30-highlights-research/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
+* [MobileNetV2](https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2)
+* [CNN](https://www.tensorflow.org/tutorials/images/cnn)
