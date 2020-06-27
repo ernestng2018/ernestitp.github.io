@@ -29,9 +29,8 @@
 * Perform Machine Learning Model Tests and Experiments
 * Develop the Machine Learning Model as per the Needs
 * Perform the Training models and tuning their hyperparameters
-* Perform Statistical analysis and Fine-Tune the Testing Results
-* Choose and Implement the Right Machine Learning Algorithm
-* Select and Implement Right Machine Learning Algorithms
+* Choose and Test the Right Machine Learning Algorithm
+* Implement Right Machine Learning Algorithms
 
 ## Develop and display the self-driving car program
 
@@ -54,6 +53,22 @@ csv driving log file
 ![datafile](/croppedlmg.png)
 ![datafile](/finallmg.png)
 ![datafile](/Yellowlmg.png)
+
+Built-in Pre-processing
+![datafile](/Picture6.png)
+
+### Choose and Test the Machine Learning Algorithm
+
+Supervised Learning Model
+![datafile](/Picture5.png)
+![datafile](/Picture4.png)
+
+Reinforcement Learning Model
+![datafile](/Picture8.png)
+
+## Implement Right Machine Learning Algorithms
+![datafile](/trainingv4.mp4)
+
 
 ## References
 * [ConV2D](https://keras.io/api/layers/convolution_layers/convolution2d/)
