@@ -73,6 +73,7 @@ Reinforcement Learning Model
 
 
 ![datafile](/Capture5.PNG)
+![datafile](/Capture6.PNG)
 
 ![datafile](/pic11.png)
 
