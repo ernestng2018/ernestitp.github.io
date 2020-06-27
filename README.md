@@ -3,6 +3,8 @@
 
 ## Aim
 * Contributing the [Google’s Initiative on Smarter Digital City 3.0 Whitepaper](https://www.thinkwithgoogle.com/intl/en-apac/trends-and-insights/smarter-digital-city-30-highlights-research/)
+![google](/Picture1.png)
+
 ## Objectives
 
 * Designing the STEM course base on the practical guide
@@ -23,7 +25,7 @@
 ## Duties of Machine Learning Engineers
 
 * Research, Design, Understand and Transform Machine Learning Projects/Systems
-* Verifying data quality, and/or ensuring it via data cleaning
+* Verifying data quality, and/or ensuring it via data cleaning/ data preprocessing
 * Perform Machine Learning Model Tests and Experiments
 * Develop the Machine Learning Model as per the Needs
 * Perform the Training models and tuning their hyperparameters
@@ -34,12 +36,14 @@
 ## Develop and display the self-driving car program
 
 * Proposed Model
-  * Supervised Learning Model
-       Tensorflow + keras - *MobileNet*
+  * Supervised Learning Model Tensorflow + keras - *MobileNet*
 
-  * Reinforcement Learning Model
-       Opencv, pyautogui, multiple screenshots module (mss) - *CNN*
+  * Reinforcement Learning Model Opencv, pyautogui, multiple screenshots module (mss) - *CNN*
 
+### Data Pre-processing
+### Supervised Learning Model
+![drivelog](/Picture2.png)  
+![datafile](/Capture2.png)
 
 
 ## References
