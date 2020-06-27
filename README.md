@@ -42,10 +42,11 @@
 
 ### Data Pre-processing
 ### Supervised Learning Model
-16,383 Image file 
+csv driving log file 
 ![drivelog](/Picture2.png)
 
-csv driving log file
+16,383 Image file
+
 ![datafile](/Capture2.PNG)
 
 ### Reinforcement Learning Model
