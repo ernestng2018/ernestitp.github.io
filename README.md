@@ -40,7 +40,7 @@
   * Reinforcement Learning Model
        Opencv, pyautogui, multiple screenshots module (mss) - *CNN*
 
-![training](/trainingv4.mp4)
+
 
 ## References
 * [ConV2D](https://keras.io/api/layers/convolution_layers/convolution2d/)
